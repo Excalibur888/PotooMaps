@@ -1,0 +1,5 @@
+.*
+!.gitignore
+Rendu/
+cmake-build-debug
+a.out.dSYM
